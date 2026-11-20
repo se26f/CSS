@@ -1,2 +1,2 @@
 # CSS
-Community Surveillance System (CSS)
+Group 3 - Community Surveillance System (CSS)
